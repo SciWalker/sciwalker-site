@@ -7,10 +7,9 @@ const data = [
     date: '2021-10-21',
     link: 'https://www.facebook.com/aeonheroes',
     desc:
-      'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
-      + 'the charity of your choice.',
+      'I founded this project (along with Darkhero)'
+      + 'in order to create an educational and gaming NFT trading cards'
+      + 'game, where everyone can buy their heroes and use them for questing.',
   },
   {
     title: 'Percepx Arts',
@@ -19,9 +18,9 @@ const data = [
     date: '2021-05-15',
     link: 'https://percepx.com/percepx-arts/',
     desc:
-      'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-      + 'Over 60,000 cats were classified before server bills made the project too expensive '
-      + 'to continue hosting.',
+      'Currently still a personal project. '
+      + 'I trained the Generative Adverserial Network to generate Arts images.'
+      + 'Selling them at the Opensea.',
   },
 ];
 

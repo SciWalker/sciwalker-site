@@ -41,7 +41,3 @@ Hi! I'm a tech and crypto enthusiast(should be obvious enough if you see me taki
 - [Dan Hughes](https://twitter.com/fuserleer?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 - [Chris Saad](https://www.chrissaad.com/)
 - [Sabine Hossenfelder](http://backreaction.blogspot.com/)
-
-# Credits
-Template that I used to build this page (MIT license):
-- https://github.com/mldangelo/personal-site
