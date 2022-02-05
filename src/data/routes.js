@@ -6,15 +6,15 @@ const routes = [
   },
   {
     label: 'About',
-    path: '/about',
+    path: '/about/',
   },
   {
     label: 'Projects',
-    path: '/projects',
+    path: '/projects/',
   },
   {
     label: 'Contact',
-    path: '/contact',
+    path: '/contact/',
   },
 ];
 
