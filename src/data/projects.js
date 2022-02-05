@@ -7,8 +7,8 @@ const data = [
     date: '2021-10-21',
     link: 'https://www.facebook.com/aeonheroes',
     desc:
-      'I founded this project (with Darkhero) '
-      + 'in order to create an educational and gaming NFT trading cards'
+      'I founded this project (with Darkhero and other founding members) '
+      + 'in order to create an educational and NFT trading cards'
       + 'game, where everyone can buy their heroes and use them for questing.',
   },
   {
@@ -20,7 +20,7 @@ const data = [
     desc:
       'Currently still a personal project. '
       + 'I trained the Generative Adverserial Network to generate Arts images.'
-      + 'Selling them at the Opensea.',
+      + 'As of now, I am not selling any of those, but can email me if interested.',
   },
 ];
 
