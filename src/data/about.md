@@ -35,9 +35,19 @@ Hi! I'm a tech and crypto enthusiast(should be obvious enough if you see me taki
 - MINA Protocols
 - Avax
 
-# People I admire
+# People I look up to
 
 - [Vitalik Buterin](https://vitalik.ca/)
 - [Dan Hughes](https://twitter.com/fuserleer?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 - [Chris Saad](https://www.chrissaad.com/)
 - [Sabine Hossenfelder](http://backreaction.blogspot.com/)
+
+# My Inner Compass (precaution: I like to mix things up)
+- Reformed Thomism
+- Calvinistic literalism + Ancient Fathers' allegorism
+- Moderate instrumentalism + scientific realism (thanks to David Deutsch, even though I find his book hard to understand)
+- Ancient greek ethics + Kierkegaardian existentialism
+- Liberalism ( more precisely, I was a classical liberal, now trying to love the modern one, with mixed success) 
+
+# Credits
+- The react js template of this website is adapted from https://github.com/mldangelo/personal-site.
